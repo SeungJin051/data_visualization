@@ -14,6 +14,7 @@
 
 ## Prerequisites
 - Visual Studio Code
+  - <img src="https://github.com/SeungJin051/data_visualization/assets/83889135/da6cc334-b66d-41cb-a2d8-1e49007fba76"/>
 0. pip 23.3.1 from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pip (python 3.10)
 ```bash
 pip install folium

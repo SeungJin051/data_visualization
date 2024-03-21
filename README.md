@@ -33,3 +33,6 @@ pip install pandas
 ## Maps
 ### 1. simple_marker_map.py
 <img width="500" alt="스크린샷 2024-03-22 오전 12 08 53" src="https://github.com/SeungJin051/data_visualization/assets/83889135/c99ab7b9-112a-40b0-9d5e-a3106e6985d3">
+
+### 2. circle_marker_map.py
+<img width="500" alt="스크린샷 2024-03-22 오전 1 54 28" src="https://github.com/SeungJin051/data_visualization/assets/83889135/174ea84c-8a69-4844-a46e-b2e48f0d3047">

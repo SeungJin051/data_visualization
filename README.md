@@ -24,7 +24,10 @@ pip install folium
 ```bash
 pip install ipython
 ```
-
+2. "Python 버전 3.9, 3.10, 3.11 또는 3.12 이상이 필요합니다."
+```bash
+pip install pandas
+```
 <hr/>
 
 ## Maps

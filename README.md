@@ -31,8 +31,11 @@ pip install pandas
 <hr/>
 
 ## Maps
-### 1. simple_marker_map.py
+### 1. simple_marker_map.py (간단한 마크 표현)
 <img width="500" alt="스크린샷 2024-03-22 오전 12 08 53" src="https://github.com/SeungJin051/data_visualization/assets/83889135/c99ab7b9-112a-40b0-9d5e-a3106e6985d3">
 
-### 2. circle_marker_map.py
+### 2. circle_marker_map.py (원형의 마크 표현)
 <img width="500" alt="스크린샷 2024-03-22 오전 1 54 28" src="https://github.com/SeungJin051/data_visualization/assets/83889135/174ea84c-8a69-4844-a46e-b2e48f0d3047">
+
+### 3. geo_map.py (형정구역_경계지도.json을 활용해 부산광역시의 구별로 지역을 나눠서 표현, 각 구마다 색의 차이는 사고위험지역_현황.csv의 출동횟수 차이)
+<img width="500" alt="스크린샷 2024-03-22 오전 2 39 45" src="https://github.com/SeungJin051/data_visualization/assets/83889135/452ae26f-54aa-48c0-9fbc-d5cd16181cc6">

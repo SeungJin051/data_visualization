@@ -3,7 +3,7 @@ import pandas as pd
 
 # 데이터 로드
 geo_path = "./data/부산광역시_행정구역_경계지도.json"
-df = pd.read_csv("./data/부산광역시_사고위험지역 현황.csv", encoding='utf-8')
+df = pd.read_csv("./data/부산광역시_사고위험지역_현황.csv", encoding='utf-8')
 
 # 필요한 컬럼만 변수에 따로 저장하기
 df_sample = df[['시군구명', '경도', '위도', '출동횟수']]

@@ -3,7 +3,7 @@ import pandas as pd
 from IPython.display import display
 
 # Data load
-df = pd.read_csv("./data/부산광역시_사고위험지역 현황.csv", encoding='utf-8')
+df = pd.read_csv("./data/부산광역시_사고위험지역_현황.csv", encoding='utf-8')
 
 print('=' * 80)
 print('부산광역시 방범용 CCTV 정보')

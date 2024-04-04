@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <script src="./mongoDB.js"></script>
+    <!-- services와 clusterer, drawing 라이브러리 불러오기 -->
+    <script type="text/javascript"
+        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=APIKEY&libraries=services,clusterer,drawing"></script>
+    <title>Kakao 지도 시작하기</title>
+
+</head>
+
+<body>
+    <div id="map" style="width:1000px;height:800px;"></div>
+    <script type="text/javascript"
+        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=28c4429b41466fbcc9a1e6a7c73704ab"></script>
+
+    <script>
+        var container = document.getElementById('map');
+        var options = {
+            center: new kakao.maps.LatLng(35.179842, 129.076588),
+            level: 8
+        };
+
+        var map = new kakao.maps.Map(container, options);
+    </script>
+</body>
+
+</html>
